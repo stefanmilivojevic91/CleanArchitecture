@@ -4,4 +4,16 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Dtos\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Models\" />
+    <Folder Include="NewFolder\" />
+    <Folder Include="Services\" />
+    <Folder Include="Shared\" />
+    <Folder Include="Specifications\" />
+    <Folder Include="UseCases\" />
+  </ItemGroup>
+
 </Project>
